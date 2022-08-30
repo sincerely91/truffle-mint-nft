@@ -100,4 +100,4 @@ yarn migrate --network rinkeby
 
 ## License
 
-[MIT](https://github.com/YosephKS/truffle-opensea-nft/blob/master/LICENSE)
+[MIT](https://github.com/blockchaindev91)
