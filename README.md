@@ -1,4 +1,4 @@
-# Truffle OpenSea NFT
+# Truffle Mint NFT To OpenSea
 
 Generate NFTs with Truffle, Moralis, and Openzeppelin to be listed in OpenSea
 
@@ -35,7 +35,7 @@ Go to [Moralis Admin](https://admin.moralis.io/register) to sign up for its free
 ### 1. Clone the Project
 
 ```bash
-git clone https://github.com/YosephKS/truffle-nft-chainlink.git
+git clone https://github.com/blockchaindev91/truffle-mint-nft.git
 ```
 
 ### 2. Install dependencies

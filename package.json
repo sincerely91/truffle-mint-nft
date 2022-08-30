@@ -1,5 +1,5 @@
 {
-  "name": "truffle-opensea-nft",
+  "name": "truffle-mint-nft",
   "version": "1.0.0",
   "description": "",
   "main": "truffle-config.js",
@@ -18,14 +18,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/YosephKS/truffle-nft-chainlink.git"
+    "url": "git+https://github.com/blockchaindev91/truffle-mint-nft.git"
   },
-  "author": "YosephKS",
+  "author": "blockchaindev91",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/YosephKS/truffle-nft-chainlink/issues"
+    "url": "https://github.com/blockchaindev91/truffle-mint-nft/issues"
   },
-  "homepage": "https://github.com/YosephKS/truffle-nft-chainlink#readme",
+  "homepage": "https://github.com/blockchaindev91/truffle-mint-nft#readme",
   "dependencies": {
     "@openzeppelin/contracts": "^4.3.2",
     "@openzeppelin/contracts-upgradeable": "^4.3.2",
