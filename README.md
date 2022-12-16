@@ -35,7 +35,7 @@ Go to [Moralis Admin](https://admin.moralis.io/register) to sign up for its free
 ### 1. Clone the Project
 
 ```bash
-git clone https://github.com/blockchaindev91/truffle-mint-nft.git
+git clone https://github.com/hteru91/truffle-mint-nft.git
 ```
 
 ### 2. Install dependencies
@@ -100,4 +100,4 @@ yarn migrate --network rinkeby
 
 ## License
 
-[MIT](https://github.com/blockchaindev91)
+[MIT](https://github.com/hteru91)
